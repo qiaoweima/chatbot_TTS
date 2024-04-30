@@ -1,0 +1,51 @@
+2023-06-12 06:13:11,680 - tts_server.py - INFO - tts engine initialized completely...
+2023-06-12 06:17:01,139 - tts_server.py - INFO - 输入文本：你好,你是什么专业的呢
+2023-06-12 06:17:13,744 - tts_server.py - INFO - 输入文本：抱歉，我没有看到计算机专业。
+2023-06-12 06:17:31,235 - tts_server.py - INFO - 输入文本：我想知道你是什么星座的
+2023-06-12 06:40:09,789 - tts_server.py - INFO - 输入文本：你好啊,怎么称呼啊
+2023-06-12 06:40:20,725 - tts_server.py - INFO - 输入文本：嗯,接着说
+2023-06-12 06:40:24,778 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:43:59,218 - tts_server.py - INFO - 输入文本：你好,你是学长还是学姐?
+2023-06-12 06:44:14,706 - tts_server.py - INFO - 输入文本：我不知道说什么了
+2023-06-12 06:44:19,122 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:44:26,319 - tts_server.py - INFO - 输入文本：如果在一起的话
+2023-06-12 06:44:30,763 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:44:44,355 - tts_server.py - INFO - 输入文本：我是你的,是你给我的
+2023-06-12 06:44:54,669 - tts_server.py - INFO - 输入文本：我是一个暗恋你的人
+2023-06-12 06:45:02,859 - tts_server.py - INFO - 输入文本：知道啊,我是广东的
+2023-06-12 06:45:15,910 - tts_server.py - INFO - 输入文本：请注意文明用语
+2023-06-12 06:45:24,166 - tts_server.py - INFO - 输入文本：你好,你是学长还是新生?
+2023-06-12 06:45:33,252 - tts_server.py - INFO - 输入文本：你是华工的?
+2023-06-12 06:45:42,077 - tts_server.py - INFO - 输入文本：不冷不热,有太阳
+2023-06-12 06:45:54,948 - tts_server.py - INFO - 输入文本：你这句话是什么意思啊?
+2023-06-12 06:46:09,447 - tts_server.py - INFO - 输入文本：是的是的我也发现了现在好了
+2023-06-12 06:46:16,538 - tts_server.py - INFO - 输入文本：回来就回来吧
+2023-06-12 06:46:21,038 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:46:26,657 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:46:32,272 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:46:37,885 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:46:46,389 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:46:53,687 - tts_server.py - INFO - 输入文本：...若所市于人者,将以实赂路也。欲有求于人,必先利其器。居是邦也,事其大夫之贤者,友其士之仁者。”《论语•卫灵公》子贡问曰:“乡人皆好
+2023-06-12 06:47:10,735 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:47:18,099 - tts_server.py - INFO - 输入文本：我怎么知道你是不是啊
+2023-06-12 06:47:26,015 - tts_server.py - INFO - 输入文本：你是做什么行业的呀?
+2023-06-12 06:47:31,986 - tts_server.py - INFO - 输入文本：很快是多久啊?
+2023-06-12 06:47:36,467 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-12 06:47:43,834 - tts_server.py - INFO - 输入文本：我已经把它删了,重新下了,还是没有啊
+2023-06-12 06:53:21,395 - tts_server.py - INFO - 输入文本：我在听我是谁
+2023-06-12 06:53:33,444 - tts_server.py - INFO - 输入文本：我是谁不重要,重要的是我在找人
+2023-06-12 06:53:41,084 - tts_server.py - INFO - 输入文本：我是一个急性子
+2023-06-12 06:53:49,335 - tts_server.py - INFO - 输入文本：你也知道那是当时啊
+2023-06-12 06:54:22,632 - tts_server.py - INFO - 输入文本：那是因为你没有遇到我,哈哈
+2023-06-12 06:54:29,725 - tts_server.py - INFO - 输入文本：人在人不在?
+2023-06-12 06:54:34,550 - tts_server.py - INFO - 输入文本：抱歉，我没有看到人。
+2023-06-12 06:54:46,488 - tts_server.py - INFO - 输入文本：你说的是哪一个呀
+2023-06-12 06:54:54,515 - tts_server.py - INFO - 输入文本：<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+2023-06-12 06:55:02,934 - tts_server.py - INFO - 输入文本：这是网络问题,我之前也出现过这问题不过过了几天就好了
+2023-06-12 06:55:14,844 - tts_server.py - INFO - 输入文本：对不起，我不知道问题上面有什么东西。
+2023-06-12 06:55:22,681 - tts_server.py - INFO - 输入文本：你是我的小丫小苹果,
