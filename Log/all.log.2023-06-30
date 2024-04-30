@@ -1,0 +1,45 @@
+2023-06-30 04:53:56,701 - tts_server.py - INFO - tts engine initialized completely...
+2023-06-30 05:20:10,021 - tts_server.py - INFO - tts engine initialized completely...
+2023-06-30 05:56:01,675 - tts_server.py - INFO - tts engine initialized completely...
+2023-06-30 06:12:32,258 - tts_server.py - INFO - 输入文本：<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+2023-06-30 06:12:38,036 - tts_server.py - INFO - 输入文本：<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+2023-06-30 06:12:42,354 - tts_server.py - INFO - 输入文本：<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+2023-06-30 06:12:46,622 - tts_server.py - INFO - 输入文本：<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+2023-06-30 06:12:50,937 - tts_server.py - INFO - 输入文本：<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+2023-06-30 06:12:55,250 - tts_server.py - INFO - 输入文本：<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+2023-06-30 06:13:00,324 - tts_server.py - INFO - 输入文本：<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+

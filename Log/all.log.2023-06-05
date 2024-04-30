@@ -1,0 +1,41 @@
+2023-06-05 08:49:43,756 - tts_server.py - INFO - tts engine initialized completely...
+2023-06-05 08:50:37,446 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "你好", "score": -4.92}
+2023-06-05 08:50:43,503 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "我可以这是个", "score": -7.181}
+2023-06-05 08:50:46,273 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "保护", "score": -1.228}
+2023-06-05 08:50:50,877 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "", "score": -14.605}
+2023-06-05 08:50:55,555 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "你好我现在所有一句话", "score": -3.415}
+2023-06-05 08:50:58,133 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "", "score": -15.059}
+2023-06-05 08:51:01,427 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "我和我", "score": -6.47}
+2023-06-05 08:51:04,985 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "就是保存在这个", "score": -10.44}
+2023-06-05 08:51:07,296 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "多", "score": 1.191}
+2023-06-05 08:51:12,014 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "没有问题了我之前", "score": 6.667}
+2023-06-05 08:51:15,723 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "这是你一生", "score": 4.057}
+2023-06-05 08:51:18,481 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "这只是人们", "score": -0.066}
+2023-06-05 08:51:22,802 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "", "score": -14.871}
+2023-06-05 08:51:27,466 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "你是傻逼吗", "score": -3.849}
+2023-06-05 08:51:30,192 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "", "score": -8.764}
+2023-06-05 08:51:34,877 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "精准识别", "score": -1.992}
+2023-06-05 08:51:37,205 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "男童", "score": -1.535}
+2023-06-05 08:51:41,274 - tts_server.py - INFO - 输入文本：{"code": 0, "msg": "success", "result": "", "score": -15.06}
+2023-06-05 08:55:18,576 - tts_server.py - INFO - 输入文本：你好
+2023-06-05 08:55:20,643 - tts_server.py - INFO - 输入文本：对
+2023-06-05 08:55:23,411 - tts_server.py - INFO - 输入文本：嘿嘿
+2023-06-05 09:14:06,555 - tts_server.py - INFO - 输入文本：None
+2023-06-05 09:14:06,556 - tts_server.py - ERROR - object of type 'NoneType' has no len()
+2023-06-05 09:16:04,148 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-05 09:16:08,857 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-05 09:16:12,405 - tts_server.py - INFO - 输入文本：噢,是啥意思
+2023-06-05 09:16:17,314 - tts_server.py - INFO - 输入文本：那怎么办呢?有解决方案吗?
+2023-06-05 09:16:21,965 - tts_server.py - INFO - 输入文本：你不认识我了嘛?
+2023-06-05 09:16:23,720 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-05 09:16:51,100 - tts_server.py - INFO - 输入文本：你好,你是小哥哥还是小姐姐
+2023-06-05 09:16:58,834 - tts_server.py - INFO - 输入文本：你说啥,我听不清
+2023-06-05 09:17:04,246 - tts_server.py - INFO - 输入文本：我也有一个问题,不知道该不该问
+2023-06-05 09:17:06,277 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-05 09:17:35,229 - tts_server.py - INFO - 输入文本：你好,请问有什么可以帮到你的吗?
+2023-06-05 09:17:41,219 - tts_server.py - INFO - 输入文本：天气晴朗,风和日丽
+2023-06-05 09:17:45,334 - tts_server.py - INFO - 输入文本：因为你是大一的,我才是大二的
+2023-06-05 09:17:50,051 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-05 09:17:53,017 - tts_server.py - INFO - 输入文本：对不起，我没听清楚您的问题。
+2023-06-05 09:17:58,732 - tts_server.py - INFO - 输入文本：我是谁并不重要,重要的是,我不认识你
+2023-06-05 09:18:03,466 - tts_server.py - INFO - 输入文本：请注意文明用语
